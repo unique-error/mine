@@ -2842,6 +2842,7 @@ var cnames_active = {
   "salvattore": "rnmp.github.io/salvattore",
   "sam": "jdubray.github.io/sam", // noCF? (don´t add this in a new PR)
   "samathgen": "sadykhzadeh.github.io/samathgen",
+  "samrajput": "unique-error.github.io/samrajput",
   "samlify": "tngan.github.io/samlify",
   "samply": "yury-shevchenko.github.io/samply",
   "samplyr": "arze1.github.io/samplyr-site",
@@ -3671,7 +3672,6 @@ var cnames_active = {
   "xatom": "xatomteam.github.io/docs",
   "xchart": "cname.vercel-dns.com", // noCF
   "xdtoast": "mininxd.github.io/xdtoast",
-  "mine": "unique-error.github.io/mine",
   "xen": "hosting.gitbook.com",
   "xendb": "notmarx.github.io/Xen.db",
   "xhemj": "xhemj.now.sh", // noCF
